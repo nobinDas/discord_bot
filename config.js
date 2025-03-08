@@ -1,3 +1,0 @@
-{
-    "token": "e1991191c42a828a061968c62afa2f984035969ec540aadaad8a5f96eba5f419"
-}
